@@ -37,7 +37,6 @@ Actualmente dirijo **Tranki Solutions**, donde lidero proyectos de:
 
 - 🚗 **Tranki Go (Android & iOS)**  
   Aplicación BLE de monitoreo vehicular y alertas dinámicas.  
-  Implementada con **KBeacon SDK**, **Firestore**, y **servicios en segundo plano** con persistencia.  
 
 - ☁️ **AchoAlert (IoT + FastAPI + Raspberry Pi)**  
   Sistema distribuido de alarmas inteligentes con **FastAPI**, **WebSockets** y **reproducción remota de mensajes MP3** para entornos industriales.  
